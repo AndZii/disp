@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/job
+END
+Ws_JobListObj.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/job/Ws_JobListObj.java
+END
+Ws_JobObj.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/job/Ws_JobObj.java
+END
+Ws_JobInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/job/Ws_JobInfo.java
+END
+Ws_Confirmation.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/job/Ws_Confirmation.java
+END
+Ws_GetActiveJobResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/job/Ws_GetActiveJobResult.java
+END

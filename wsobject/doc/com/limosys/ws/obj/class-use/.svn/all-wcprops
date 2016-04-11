@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use
+END
+Ws_CarGps.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_CarGps.html
+END
+Ws_ProfileActivationResult.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_ProfileActivationResult.html
+END
+Ws_CarPrice.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_CarPrice.html
+END
+Ws_ProfileSignInFBResult.ResultCode.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_ProfileSignInFBResult.ResultCode.html
+END
+Ws_PaymentTypes.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_PaymentTypes.html
+END
+Ws_Base.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_Base.html
+END
+Ws_TerminalByGpsList.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_TerminalByGpsList.html
+END
+Ws_AirportAirlineTerminal.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_AirportAirlineTerminal.html
+END
+Ws_Fare.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_Fare.html
+END
+Ws_CarList.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_CarList.html
+END
+Ws_Value.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_Value.html
+END
+Ws_MobileFeedback.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_MobileFeedback.html
+END
+Ws_Coupon.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_Coupon.html
+END
+Ws_MobileAccount.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_MobileAccount.html
+END
+Ws_MobileFeedbackList.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_MobileFeedbackList.html
+END
+Ws_Profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_Profile.html
+END
+Ws_CarLocation.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_CarLocation.html
+END
+Ws_Payment.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_Payment.html
+END
+Ws_TerminalByGpsList.Ws_TerminalByGpsItem.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_TerminalByGpsList.Ws_TerminalByGpsItem.html
+END
+Ws_SavePaymentResult.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_SavePaymentResult.html
+END
+Ws_AirportTerminalList.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_AirportTerminalList.html
+END
+Ws_AirportTerminalList.Ws_AirportTerminalListItem.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_AirportTerminalList.Ws_AirportTerminalListItem.html
+END
+Ws_ProfileSignInFBResult.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_ProfileSignInFBResult.html
+END
+Ws_GetActiveJobResult.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_GetActiveJobResult.html
+END
+Ws_ETAMatrixResult.Ws_CarETA.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_ETAMatrixResult.Ws_CarETA.html
+END
+Ws_Icon.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_Icon.html
+END
+Ws_CarPrices.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_CarPrices.html
+END
+Ws_Airline.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_Airline.html
+END
+Ws_InitParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_InitParam.html
+END
+Ws_CreditCardInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_CreditCardInfo.html
+END
+Ws_IconList.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_IconList.html
+END
+Ws_Confirmation.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_Confirmation.html
+END
+Ws_AirportInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_AirportInfo.html
+END
+Ws_AirportInfoList.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_AirportInfoList.html
+END
+Ws_DriverPicture.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_DriverPicture.html
+END
+Ws_Address.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_Address.html
+END
+Ws_Payments.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_Payments.html
+END
+Ws_MiscChargeLkupItem.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_MiscChargeLkupItem.html
+END
+Ws_AddressList.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_AddressList.html
+END
+Ws_ETAMatrixResult.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_ETAMatrixResult.html
+END
+Ws_Value.ValueType.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_Value.ValueType.html
+END
+Ws_LatLng.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_LatLng.html
+END
+Ws_AcctReq.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_AcctReq.html
+END
+Ws_JobInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_JobInfo.html
+END
+Ws_CarClass.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_CarClass.html
+END
+Ws_CarClassList.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_CarClassList.html
+END
+Ws_MiscCharge.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_MiscCharge.html
+END
+Ws_CarInfoExt.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_CarInfoExt.html
+END
+Ws_CarDetail.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_CarDetail.html
+END
+Ws_JobListObj.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_JobListObj.html
+END
+Ws_CarInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_CarInfo.html
+END
+Ws_DriverComments.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_DriverComments.html
+END
+Ws_JobObj.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_JobObj.html
+END
+Ws_PaymentType.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/class-use/Ws_PaymentType.html
+END

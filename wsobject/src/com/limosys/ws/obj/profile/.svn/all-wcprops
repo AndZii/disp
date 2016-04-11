@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jlimo/!svn/ver/14529/WSObject/src/com/limosys/ws/obj/profile
+END
+Ws_SaveUsernamePasswordResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jlimo/!svn/ver/14528/WSObject/src/com/limosys/ws/obj/profile/Ws_SaveUsernamePasswordResult.java
+END
+Ws_ForgotPasswordResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jlimo/!svn/ver/14529/WSObject/src/com/limosys/ws/obj/profile/Ws_ForgotPasswordResult.java
+END
+Ws_ProfileSignInGoogleResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/profile/Ws_ProfileSignInGoogleResult.java
+END
+Ws_ProfileActivationResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/profile/Ws_ProfileActivationResult.java
+END
+Ws_Profile.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/profile/Ws_Profile.java
+END
+Ws_ProfileSignInFBResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/profile/Ws_ProfileSignInFBResult.java
+END

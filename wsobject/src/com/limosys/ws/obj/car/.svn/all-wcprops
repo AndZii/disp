@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/car
+END
+Ws_CarInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/car/Ws_CarInfo.java
+END
+Ws_CarList.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/car/Ws_CarList.java
+END
+Ws_CarPrices.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/car/Ws_CarPrices.java
+END
+Ws_CarGps.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/car/Ws_CarGps.java
+END
+Ws_CarPrice.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/car/Ws_CarPrice.java
+END
+Ws_CarClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/car/Ws_CarClass.java
+END
+Ws_CarLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/car/Ws_CarLocation.java
+END
+Ws_CarClassList.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/car/Ws_CarClassList.java
+END
+Ws_CarDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/car/Ws_CarDetail.java
+END
+Ws_CarInfoExt.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/car/Ws_CarInfoExt.java
+END

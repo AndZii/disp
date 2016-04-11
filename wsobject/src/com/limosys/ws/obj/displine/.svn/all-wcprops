@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/jlimo/!svn/ver/14934/WSObject/src/com/limosys/ws/obj/displine
+END
+Ws_GetLinesByEmployeeResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jlimo/!svn/ver/14642/WSObject/src/com/limosys/ws/obj/displine/Ws_GetLinesByEmployeeResult.java
+END
+Ws_DispLoginParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jlimo/!svn/ver/14540/WSObject/src/com/limosys/ws/obj/displine/Ws_DispLoginParam.java
+END
+Ws_DispLineInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jlimo/!svn/ver/14934/WSObject/src/com/limosys/ws/obj/displine/Ws_DispLineInfo.java
+END
+Ws_GetDispLineParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jlimo/!svn/ver/14540/WSObject/src/com/limosys/ws/obj/displine/Ws_GetDispLineParam.java
+END
+Ws_DispLoginResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jlimo/!svn/ver/14540/WSObject/src/com/limosys/ws/obj/displine/Ws_DispLoginResult.java
+END
+Ws_GetDispLineParamResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jlimo/!svn/ver/14540/WSObject/src/com/limosys/ws/obj/displine/Ws_GetDispLineParamResult.java
+END
+Ws_DispAuthParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jlimo/!svn/ver/14934/WSObject/src/com/limosys/ws/obj/displine/Ws_DispAuthParam.java
+END
+Ws_GetDriverDispLinesResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jlimo/!svn/ver/14934/WSObject/src/com/limosys/ws/obj/displine/Ws_GetDriverDispLinesResult.java
+END
+Ws_GetLinesByEmployeeParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jlimo/!svn/ver/14642/WSObject/src/com/limosys/ws/obj/displine/Ws_GetLinesByEmployeeParam.java
+END
+Ws_GetLineInfoDispatcherResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jlimo/!svn/ver/14540/WSObject/src/com/limosys/ws/obj/displine/Ws_GetLineInfoDispatcherResult.java
+END
+Ws_DispLineStatusInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jlimo/!svn/ver/14642/WSObject/src/com/limosys/ws/obj/displine/Ws_DispLineStatusInfo.java
+END
+Ws_SetLineParametersDispatchParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jlimo/!svn/ver/14751/WSObject/src/com/limosys/ws/obj/displine/Ws_SetLineParametersDispatchParam.java
+END
+Ws_GetLineStatusListParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jlimo/!svn/ver/14642/WSObject/src/com/limosys/ws/obj/displine/Ws_GetLineStatusListParam.java
+END
+Ws_GetLineStatusListResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jlimo/!svn/ver/14642/WSObject/src/com/limosys/ws/obj/displine/Ws_GetLineStatusListResult.java
+END
+Ws_GetLineInfoDispatcherParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jlimo/!svn/ver/14540/WSObject/src/com/limosys/ws/obj/displine/Ws_GetLineInfoDispatcherParam.java
+END

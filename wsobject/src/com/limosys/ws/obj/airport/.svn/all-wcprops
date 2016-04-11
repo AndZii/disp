@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/airport
+END
+Ws_Airline.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/airport/Ws_Airline.java
+END
+Ws_AirportInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/airport/Ws_AirportInfo.java
+END
+Ws_AirportInfoList.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/airport/Ws_AirportInfoList.java
+END
+Ws_AirportAirlineTerminal.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/airport/Ws_AirportAirlineTerminal.java
+END
+Ws_AirportTerminalList.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/airport/Ws_AirportTerminalList.java
+END
+Ws_TerminalByGpsList.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/airport/Ws_TerminalByGpsList.java
+END

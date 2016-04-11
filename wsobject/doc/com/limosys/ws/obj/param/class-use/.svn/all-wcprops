@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use
+END
+Ws_CheckFlightParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_CheckFlightParam.html
+END
+Ws_ParamJob.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_ParamJob.html
+END
+Ws_RateRideParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_RateRideParam.html
+END
+Ws_ParamJobList.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_ParamJobList.html
+END
+Ws_FacebookCustParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_FacebookCustParam.html
+END
+Ws_CheckAlephLoginParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_CheckAlephLoginParam.html
+END
+Ws_ParamLatLng.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_ParamLatLng.html
+END
+Ws_RemovePaymentParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_RemovePaymentParam.html
+END
+Ws_GetPaymentsParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_GetPaymentsParam.html
+END
+Ws_ParamCar.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_ParamCar.html
+END
+Ws_GetTerminalByGpsParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_GetTerminalByGpsParam.html
+END
+Ws_ParamDriverComments.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_ParamDriverComments.html
+END
+Ws_ParamCustomerArrived.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_ParamCustomerArrived.html
+END
+Ws_FacebookParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_FacebookParam.html
+END
+Ws_MobileFeedbackParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_MobileFeedbackParam.html
+END
+Ws_AddCompanyAccountParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_AddCompanyAccountParam.html
+END
+Ws_ParamCarLocation.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_ParamCarLocation.html
+END
+Ws_CancelReservationParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_CancelReservationParam.html
+END
+Ws_GetDriverPicParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_GetDriverPicParam.html
+END
+Ws_ETAMatrixParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_ETAMatrixParam.html
+END
+Ws_ActivateProfileParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_ActivateProfileParam.html
+END
+Ws_UsernamePasswordParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_UsernamePasswordParam.html
+END
+Ws_RemoveCompanyAccountParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_RemoveCompanyAccountParam.html
+END
+Ws_ParamCustDevice.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_ParamCustDevice.html
+END
+Ws_DeviceRegistration.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_DeviceRegistration.html
+END
+Ws_EditCompanyAccountParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_EditCompanyAccountParam.html
+END
+Ws_ForgotPasswordParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_ForgotPasswordParam.html
+END
+Ws_ParamGoogleApiStat.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_ParamGoogleApiStat.html
+END
+Ws_SavePaymentParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_SavePaymentParam.html
+END
+Ws_ParamCarId.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_ParamCarId.html
+END
+Ws_ParamCarAvailability.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_ParamCarAvailability.html
+END
+Ws_CouponParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_CouponParam.html
+END
+Ws_ParamJobInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_ParamJobInfo.html
+END
+Ws_ReqActivationParam.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/jlimo/!svn/ver/10080/WSObject/doc/com/limosys/ws/obj/param/class-use/Ws_ReqActivationParam.html
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/jlimo/!svn/ver/14698/WSObject/src/com/limosys/ws/obj/payment
+END
+Ws_Payments.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/payment/Ws_Payments.java
+END
+Ws_PaymentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/payment/Ws_PaymentType.java
+END
+Ws_CreditCardInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/payment/Ws_CreditCardInfo.java
+END
+Ws_PaymentTypes.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/payment/Ws_PaymentTypes.java
+END
+Ws_Payment.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/payment/Ws_Payment.java
+END
+Ws_SavePaymentResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/payment/Ws_SavePaymentResult.java
+END

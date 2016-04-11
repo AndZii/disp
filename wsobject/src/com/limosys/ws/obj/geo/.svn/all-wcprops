@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/jlimo/!svn/ver/14856/WSObject/src/com/limosys/ws/obj/geo
+END
+Ws_GetDirsResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jlimo/!svn/ver/14685/WSObject/src/com/limosys/ws/obj/geo/Ws_GetDirsResult.java
+END
+Ws_ApiProxyParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/jlimo/!svn/ver/14848/WSObject/src/com/limosys/ws/obj/geo/Ws_ApiProxyParam.java
+END
+Ws_GetDirsParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jlimo/!svn/ver/14656/WSObject/src/com/limosys/ws/obj/geo/Ws_GetDirsParam.java
+END
+ApiType.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/jlimo/!svn/ver/14856/WSObject/src/com/limosys/ws/obj/geo/ApiType.java
+END
+Ws_ApiProxyResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/jlimo/!svn/ver/14848/WSObject/src/com/limosys/ws/obj/geo/Ws_ApiProxyResult.java
+END
+Ws_GoogleDirResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/jlimo/!svn/ver/14685/WSObject/src/com/limosys/ws/obj/geo/Ws_GoogleDirResponse.java
+END
+Ws_GoogleDirs.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/jlimo/!svn/ver/14685/WSObject/src/com/limosys/ws/obj/geo/Ws_GoogleDirs.java
+END

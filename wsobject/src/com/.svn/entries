@@ -1,0 +1,54 @@
+10
+
+dir
+14939
+https://svn.lsvpn.net:8443/svn/jlimo/WSObject/src/com
+https://svn.lsvpn.net:8443/svn/jlimo
+
+
+
+2016-04-08T19:31:14.359980Z
+14934
+nik
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+87ca4480-c909-8949-985d-fa0dc0c9aca8
+
+.settings
+dir
+
+
+
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+copied
+https://svn.lsvpn.net:8443/svn/jlimo/WSObject/.settings
+14517
+
+limosys
+dir
+

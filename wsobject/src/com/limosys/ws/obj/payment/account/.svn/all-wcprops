@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/jlimo/!svn/ver/14698/WSObject/src/com/limosys/ws/obj/payment/account
+END
+Ws_AddAccountWithEmailVerificationResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/jlimo/!svn/ver/14492/WSObject/src/com/limosys/ws/obj/payment/account/Ws_AddAccountWithEmailVerificationResult.java
+END
+Ws_AddAccountsByEmailResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/jlimo/!svn/ver/14529/WSObject/src/com/limosys/ws/obj/payment/account/Ws_AddAccountsByEmailResult.java
+END
+Ws_VerifyAccountByEmailParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/jlimo/!svn/ver/14698/WSObject/src/com/limosys/ws/obj/payment/account/Ws_VerifyAccountByEmailParam.java
+END
+Ws_AcctReq.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/payment/account/Ws_AcctReq.java
+END
+Ws_MobileAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jlimo/!svn/ver/14422/WSObject/src/com/limosys/ws/obj/payment/account/Ws_MobileAccount.java
+END
+Ws_AccountSignInVerificationParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/jlimo/!svn/ver/14698/WSObject/src/com/limosys/ws/obj/payment/account/Ws_AccountSignInVerificationParam.java
+END
+Ws_VerifyAccountByEmailResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/jlimo/!svn/ver/14469/WSObject/src/com/limosys/ws/obj/payment/account/Ws_VerifyAccountByEmailResult.java
+END
